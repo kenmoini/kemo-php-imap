@@ -1,15 +1,20 @@
 {
-	"name": "php-imap/php-imap",
-	"description": "PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extension",
+	"name": "kemo-php-imap/kemo-php-imap",
+	"description": "PHP class to access IMAP mailbox",
 	"keywords": [
 		"PHP",
 		"IMAP",
 		"mail"
 	],
-	"homepage": "https://github.com/barbushin/php-imap",
+	"homepage": "https://github.com/kenmoini/kemo-php-imap/",
 	"license": "BSD 3-Clause",
 	"type": "library",
 	"authors": [
+		{
+			"name": "Ken Moini",
+			"homepage": "http://www.kenmoini.com",
+			"email": "ken@kenmoini.com"
+		},
 		{
 			"name": "Sergey Barbushin",
 			"homepage": "http://linkedin.com/in/barbushin",
