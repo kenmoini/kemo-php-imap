@@ -1,4 +1,4 @@
-<?php namespace PhpImap;
+<?php namespace KemoPhpImap;
 
 /**
  * @see https://github.com/barbushin/php-imap
