@@ -34,15 +34,15 @@ Or
 
 Just add following code in the head of your script:
 
-	use PhpImap\Mailbox as ImapMailbox;
-	use PhpImap\IncomingMail;
-	use PhpImap\IncomingMailAttachment;
+	use KemoPhpImap\Mailbox as ImapMailbox;
+	use KemoPhpImap\IncomingMail;
+	use KemoPhpImap\IncomingMailAttachment;
 
 ### Usage example
 
 ```php
 // 4. argument is the directory into which attachments are to be saved:
-$mailbox = new PhpImap\Mailbox('{imap.gmail.com:993/imap/ssl}INBOX', 'some@gmail.com', '*********', __DIR__);
+$mailbox = new KemoPhpImap\Mailbox('{imap.gmail.com:993/imap/ssl}INBOX', 'some@gmail.com', '*********', __DIR__);
 
 // Read all messaged into an array:
 $mailsIds = $mailbox->searchMailbox('ALL');
