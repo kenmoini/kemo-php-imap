@@ -1,4 +1,4 @@
-<?php namespace PhpImap;
+<?php namespace KemoPhpImap;
 
 spl_autoload_register(function ($class) {
 	if(strpos($class, __NAMESPACE__) === 0) {
