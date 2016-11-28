@@ -1,4 +1,4 @@
-<?php namespace PhpImap;
+<?php namespace KemoPhpImap;
 
 use stdClass;
 
