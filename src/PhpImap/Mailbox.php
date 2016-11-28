@@ -41,6 +41,16 @@ class Mailbox {
 	}
 
 	/**
+	 * Returns the IMAP Login Account
+	 * @return string
+	 */
+	public function getLogin()
+	{
+		return $this->imapLogin;
+	}
+	
+	
+	/**
 	 * Set custom connection arguments of imap_open method. See http://php.net/imap_open
 	 * @param int $options
 	 * @param int $retriesNum
