@@ -27,7 +27,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"PhpImap\\": "src/PhpImap/"
+			"KemoPhpImap\\": "src/KemoPhpImap/"
 		}
 	},
 	"minimum-stability": "stable"
