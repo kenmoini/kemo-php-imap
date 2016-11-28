@@ -14,11 +14,6 @@
 			"name": "Ken Moini",
 			"homepage": "http://www.kenmoini.com",
 			"email": "ken@kenmoini.com"
-		},
-		{
-			"name": "Sergey Barbushin",
-			"homepage": "http://linkedin.com/in/barbushin",
-			"email": "barbushin@gmail.com"
 		}
 	],
 	"require": {
