@@ -6,7 +6,6 @@
 		"IMAP",
 		"mail"
 	],
-	"version": "2.0.9",
 	"homepage": "https://github.com/kenmoini/kemo-php-imap/",
 	"license": "BSD 3-Clause",
 	"type": "library",
