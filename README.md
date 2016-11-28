@@ -1,6 +1,6 @@
 # PHP IMAP
 
-[![Author](http://img.shields.io/badge/author-@barbushin-blue.svg?style=flat-square)](https://www.linkedin.com/in/barbushin)
+[![Author](http://img.shields.io/badge/author-@kenmoini-blue.svg?style=flat-square)](https://www.kenmoini.com)
 [![GitHub release](https://img.shields.io/github/release/barbushin/php-imap.svg?maxAge=86400&style=flat-square)](https://packagist.org/packages/php-console/php-console)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Packagist](https://img.shields.io/packagist/dt/php-imap/php-imap.svg?maxAge=86400&style=flat-square)](https://packagist.org/packages/php-console/php-console)
@@ -22,13 +22,13 @@
 
 	{
 		"require": {
-			"php-imap/php-imap": "~2.0"
+			"kemo-php-imap/kemo-php-imap": "~2.0"
 		}
 	}
 
 Or
 
-	$ composer require php-imap/php-imap ~2.0
+	$ composer require kemo-php-imap/kemo-php-imap ~2.0
 
 ### Migration from `v1.*` to `v2.*`
 
